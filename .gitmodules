@@ -1,0 +1,6 @@
+[submodule "thingamajigprocess"]
+	path = thingamajigprocess
+	url = https://github.com/wgilder/thingamajigprocess
+[submodule "thingamajigactivities"]
+	path = thingamajigactivities
+	url = https://github.com/wgilder/thingamajigactivities
